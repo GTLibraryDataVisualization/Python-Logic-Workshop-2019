@@ -1,0 +1,12 @@
+# a python comment in a txt file!?
+data: not-a number, gpa: 3.2, credits: 135, semesters: 9
+credits:132, gpa : 3.8, semesters: 8
+gpa : 4.0, credits: 73, filler, semesters: 3
+gpa:2.9, filler, credits :56, semesters: 4
+credits : 90, garbage, gpa: 3.7, semesters: 7
+gpa:3.2, semesters: 7, credits :113,
+! another random character?
+5 + 137 = 142
+gpa: 3.7, credits: 15, semesters: 1
+and more noise
+　
